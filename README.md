@@ -3,6 +3,7 @@ In this repository, PD control is applied to stabilize the satellite on the desi
 
 ---
 ### Task description
+Consider a satellite described by the following equations:
 <p align="center"><img src="https://user-images.githubusercontent.com/90580636/146703505-f27a36db-e057-4151-b851-a670c55bd62c.png" /></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/90580636/146703940-f9ffd0ec-b53b-4459-adb4-9a5f9024dfa7.png" /></p>
 
