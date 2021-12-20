@@ -1,5 +1,5 @@
 ## Stabilization-of-Artificial-Satellite
-In this repository, Multidimensional Kalman Filter and sensor fusion are implemented to predict the trajectories for constant velocity model. Data is extracted from GPS and Accelerometer using mobile phone. It is a solution of Assignment1 in Fundamentals of Robot Control course for ROCV master's program at Innopolis University.
+In this repository, PD control is applied to stabilize the satellite on the desired orbit. It is a solution of Assignment1 in Fundamentals of Robot Control course for ROCV master's program at Innopolis University.
 
 ---
 ### Task description
@@ -14,6 +14,6 @@ In this repository, Multidimensional Kalman Filter and sensor fusion are impleme
 |                                 
 └── Readme.md
 ```
-
+---
 ### System output
 <p align="center"><img src="https://user-images.githubusercontent.com/90580636/146703638-bb2b049a-6d0b-4182-9298-4777a2698965.png" /></p>
